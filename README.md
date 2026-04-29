@@ -1,6 +1,6 @@
 ## Hi, I am Márton 👋
 
-🧠Software and Systems Engineering student<br>🎓LUT University of Technology<br>📍Lahti, Finland<br>💻I showcase my project here
+🧠Software and Systems Engineering student<br>🎓LUT University of Technology<br>📍Lahti, Finland<br>💻I showcase my projects here
 
 
 ## 🌐 Socials:
